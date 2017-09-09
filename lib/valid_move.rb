@@ -1,5 +1,5 @@
 # code your #valid_move? method here
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", "x", " ", " ", " ", " ", " ", " ", " "]
 
 
 def valid_move?
